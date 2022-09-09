@@ -2,7 +2,7 @@
 
 Este repositório possui scripts para automatizar e agilizar o 'workflow' e a preparação do ambiente pós-instalação.
 
-> A execução deste script somente é executado em ambientes Gnome-Like. Ou seja, qualquer distribuição Linux que possua comandos como: Sudo, Apt, Apt-get, etc.
+> A execução deste script somente é executado em ambientes Debian-Like. Ou seja, qualquer distribuição Linux que possua comandos como: Sudo, Apt, Apt-get, etc.
 
 ## Sobre Ansible
 
