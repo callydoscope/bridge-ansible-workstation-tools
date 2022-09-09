@@ -23,7 +23,7 @@ sudo apt update && sudo apt install ansible unzip git -y
 2. Clonar esse repositório
 
 ```bash
-git clone https://github.com/callyca/bridge-ansible-workstation-tools.git && cd bridge-ansible-workstation-tools
+git clone https://github.com/callydoscope/bridge-ansible-workstation-tools.git && cd bridge-ansible-workstation-tools
 ```
 
 ## Executando
